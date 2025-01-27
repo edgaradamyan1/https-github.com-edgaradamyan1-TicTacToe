@@ -1,0 +1,1 @@
+A simple Tic Tac Toe game implemented using Swift, SwiftUI, and the MVVM (Model-View-ViewModel) design pattern. This project demonstrates how to structure game logic, manage state, and build a user interface using a clean and scalable architecture.
